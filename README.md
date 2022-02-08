@@ -9,7 +9,8 @@ I wrote this software to strengthen my knowledge in Python OOP. I also love work
 
 Here's a link to the video demo.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Arcade Code Demo](https://youtu.be/wNWAoriH3RY)
+[Arcade Game Demo](https://youtu.be/6bvGb96Kg30)
 
 # Development Environment
 
@@ -21,7 +22,6 @@ Here's a link to the video demo.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Python Arcade Library](https://api.arcade.academy/en/latest/index.html)
 * [Real Python](https://realpython.com/platformer-python-arcade/)
 
