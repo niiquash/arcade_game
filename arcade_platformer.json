@@ -1,0 +1,276 @@
+{ "columns":0,
+ "grid":
+    {
+     "height":1,
+     "orientation":"orthogonal",
+     "width":1
+    },
+ "margin":0,
+ "name":"arcade_platformer",
+ "spacing":0,
+ "tilecount":43,
+ "tiledversion":"1.7.2",
+ "tileheight":1024,
+ "tiles":[
+        {
+         "id":0,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/Ground\/Grass\/grass.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":1,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/Ground\/Grass\/grassCenter.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":2,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/Ground\/Grass\/grassCenter_round.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":3,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/Ground\/Grass\/grassCliff_left.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":4,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/Ground\/Grass\/grassCliff_right.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":5,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/Ground\/Grass\/grassCliffAlt_left.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":6,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/Ground\/Grass\/grassCliffAlt_right.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":7,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/Ground\/Grass\/grassCorner_left.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":8,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/Ground\/Grass\/grassCorner_right.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":9,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/Ground\/Grass\/grassHalf.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":10,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/Ground\/Grass\/grassHalf_left.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":11,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/Ground\/Grass\/grassHalf_mid.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":12,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/Ground\/Grass\/grassHalf_right.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":13,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/Ground\/Grass\/grassHill_left.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":14,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/Ground\/Grass\/grassHill_right.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":15,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/Ground\/Grass\/grassLeft.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":16,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/Ground\/Grass\/grassMid.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":17,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/Ground\/Grass\/grassRight.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":18,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/HUD\/hudHeart_empty.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":19,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/HUD\/hudHeart_full.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":20,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/HUD\/hudHeart_half.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":21,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/HUD\/hudX.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":22,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/Items\/coinBronze.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":23,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/Items\/coinGold.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":24,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/Items\/coinSilver.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":25,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/Items\/flagGreen_down.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":26,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/Items\/flagGreen1.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":27,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/Items\/flagGreen2.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":28,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/Tiles\/doorOpen_mid.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":29,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/Tiles\/doorOpen_top.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":30,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/Tiles\/grass.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":31,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/Tiles\/ladderMid.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":32,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/Tiles\/ladderTop.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":33,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/Tiles\/signExit.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":34,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/Tiles\/signLeft.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":35,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/Tiles\/signRight.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":36,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/Tiles\/torch1.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":37,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/Tiles\/torch2.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":38,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/Tiles\/water.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":39,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/Tiles\/waterTop_high.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":40,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/Tiles\/waterTop_low.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":43,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/Items\/boxCrate_double.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":44,
+         "image":"..\/..\/..\/Python\/Python Arcade\/Images\/PNG\/Backgrounds\/blue_shroom.png",
+         "imageheight":1024,
+         "imagewidth":1024
+        }],
+ "tilewidth":1024,
+ "type":"tileset",
+ "version":"1.6"
+}
